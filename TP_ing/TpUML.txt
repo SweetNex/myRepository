@@ -1,4 +1,0 @@
-1-Donner le diagramme d'état qui représente l'expression régulière
-suivante:
-(aaaa)^n
-2-Donner le programme équivalent
