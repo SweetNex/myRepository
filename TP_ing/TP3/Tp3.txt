@@ -1,0 +1,21 @@
+1. GitHub
+2. GitLab
+3. Beanstalk
+
+
+1)git config --global user.name "SweetNex"
+2)git config --global user.email "yassir_bk15@hotmail.com"
+3)$ git --version
+  git version 2.24.0.windows.2
+4)$ git init
+
+5) cd Desktop/TP_ing/TP3
+
+   git add CommitTest.txt
+   git commit -m "added CommitTest.txt to the repo"
+   git status
+   git log
+   git add Test.txt
+   git status
+   git log
+   git blame CommitTest.txt
